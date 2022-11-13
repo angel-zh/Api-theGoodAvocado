@@ -50,7 +50,7 @@ https://thegoodavocado.netlify.app/
 
 
 ## ROUTES
-![routes](public/screenshots/route-table.png)
+![routes](public/route-table.png)
 
 ## USER STORIES
 
