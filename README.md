@@ -39,13 +39,13 @@ https://thegoodavocado.netlify.app/
 
 ## SCREENSHOTS & ERD
 
-![homepage](public/screenshots/screenshot-1.png)
-![show](public/screenshots/screenshot-2.png)
-![search](public/screenshots/screenshot-3.png)
-![create](public/screenshots/screenshot-4.png)
-![review](public/screenshots/screenshot-5.png)
-![editreviews](public/screenshots/screenshot-7.png)
-![allreviews](public/screenshots/screenshot-6.png)
+![homepage](public/screenshot-1.png)
+![show](public/screenshot-2.png)
+![search](public/screenshot-3.png)
+![create](public/screenshot-4.png)
+![review](public/screenshot-5.png)
+![editreviews](public/screenshot-7.png)
+![allreviews](public/screenshot-6.png)
 ![6](https://i.imgur.com/6j2sMz3.png)
 
 
