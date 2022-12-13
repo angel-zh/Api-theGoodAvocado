@@ -8,8 +8,11 @@ A Yelp Mockup: Restaurant Info and Reviews
 
 Our application is designed to allow users to interact with various restaurants. Users can share their favorite restaurants to help users have better experiences when dining out. Users will be able to share their experiences and leave reviews.  Our intended audience is for anyone who enjoys trying new restaurants and sharing their love of food. People all over the world are always looking for insight before spending their hard earned money on a lousy meal. Food is something everyone enjoys and we hope to share a great platform to help users have great meals.
 
-### Link
+### Deployed Link
 https://thegoodavocado.netlify.app/
+
+### Front-End Repo Link
+https://github.com/angel-zh/Client-theGoodAvocado
 
 ### Brought to you by The Flossing Avocados Team
 
